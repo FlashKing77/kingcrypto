@@ -1,0 +1,2 @@
+# kingcrypto
+Token KingWeed
